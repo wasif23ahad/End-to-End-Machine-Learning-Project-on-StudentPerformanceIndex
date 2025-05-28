@@ -1,4 +1,11 @@
 # pip install -r requirements.txt
+#conda create -p venv python=3.8 -y
+# activate venv: conda activate venv/
+# git add .
+#git status
+#git commit -m "first commit"
+#git push -u origin main
+# This file is used to install the required packages for the project.
 
 numpy
 pandas
