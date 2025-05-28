@@ -1,6 +1,7 @@
 # pip install -r requirements.txt
 #conda create -p venv python=3.8 -y
 # activate venv: conda activate venv/
+# deavtivate: conda deactivate
 # git add .
 #git status
 #git commit -m "first commit"
