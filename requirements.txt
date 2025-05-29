@@ -3,9 +3,9 @@
 # activate venv: conda activate venv/
 # deavtivate: conda deactivate
 # git add .
-#git status
-#git commit -m "first commit"
-#git push -u origin main
+# git status
+# git commit -m "first commit"
+# git push -u origin main
 # This file is used to install the required packages for the project.
 
 numpy
