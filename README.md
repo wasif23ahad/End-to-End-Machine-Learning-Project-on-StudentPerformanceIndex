@@ -83,16 +83,19 @@ Models used and tested:
 1. Clone the repository:
    ```bash
    git clone https://github.com/wasif23ahad/End-to-End-Machine-Learning-Project-on-StudentPerformanceIndex.git
-   cd End-to-End-Machine-Learning-Project-on-StudentPerformanceIndex
+   cd End-to-End-Machine-Learning-Project-on-StudentPerformanceIndex 
+   ```
 
 2. Install dependencies:
     '''bash
     pip install -r requirements.txt 
+    '''
 
 3. Run the Flask app:
     '''bash
 
-    python app.py
+    python app.py 
+    '''
 
 4. Open your web browser and navigate to http://localhost:5000 to access the web app.
 
