@@ -91,9 +91,9 @@ Models used and tested:
 
 4. Open your web browser and navigate to http://localhost:5000 to access the web app.
 
-📬 Author
-Mohammad Wasif Ahad
-📧 wasifahad300@gmail.com
+📬 Author:
+    Mohammad Wasif Ahad
+    📧 wasifahad300@gmail.com
 🔗 GitHub : https://github.com/wasif23ahad
 
 
