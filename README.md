@@ -60,15 +60,7 @@ Models used and tested:
 
 ---
 
-## 📷 Project Preview
 
-### 🔍 Web App UI (Flask)
-![Web App Screenshot](assets/web_ui.png)
-
-### 📊 EDA Visualization
-![EDA Chart](assets/eda_plot.png)
-
----
 
 ## 📓 Notebooks
 
