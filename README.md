@@ -87,15 +87,15 @@ Models used and tested:
    ```
 
 2. Install dependencies:
-    '''bash
+    ```bash
     pip install -r requirements.txt 
-    '''
+    ```
 
 3. Run the Flask app:
-    '''bash
+    ```bash
 
     python app.py 
-    '''
+    ```
 
 4. Open your web browser and navigate to http://localhost:5000 to access the web app.
 
